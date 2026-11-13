@@ -154,7 +154,7 @@ Version history is another important feature. It records earlier states of the d
 
 ## What Version Control Solves
 
-Programming projects change repeatedly. A file may work correctly in one version but stop working after a later edit. Without version control, people sometimes create many copies named final, final_new or latest_fixed. This makes it hard to identify what changed and which copy should be used.
+Programming projects change repeatedly. A file may work correctly in one version but stop working after a later edit. Without version control, people sometimes create many copies named things like final, final_new or latest_fixed. This makes it hard to identify what changed and which copy should actually be used.
 
 Git is a distributed version-control system that records changes over time. A repository contains project files together with their history. Each recorded set of changes is called a commit. Because commits have identifiers and messages, it is possible to inspect earlier states of the work and understand how the project developed.
 
