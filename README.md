@@ -86,7 +86,7 @@ The choice between a matrix, array and cases environment depends on what the mat
 
 Tables are helpful for comparing values or arranging repeated measurements. The tabular environment builds the rows and columns. Column alignment is given at the beginning, usually with l, c or r. An ampersand separates entries across a row, and \\ ends the row. A horizontal rule can be added with \hline.
 
-For example, a table of students marks could use one column for names and another for marks. If the first column contains long sentences, it may be better to use a p-type column with a fixed width so the text can wrap instead of extending beyond the page. This is different from simply making every column wider.
+For example, a table of students' marks could use one column for names and another for marks. If the first column contains long sentences, it may be better to use a p-type column with a fixed width so the text can wrap instead of extending beyond the page. This is different from simply making every column wider.
 
 The table environment is used when a table needs a caption and automatic numbering. LaTeX treats tables inside this environment as floats, which means they may be moved to a suitable place on a page. The \multicolumn command can join columns for a common heading, while \multirow can make one entry cover several rows when the required package is loaded. These commands are useful for more complex table layouts.
 
