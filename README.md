@@ -190,4 +190,4 @@ A README.md file is usually the first explanation a visitor sees when opening a 
 
 A GitHub repository can contain a README alongside source files, diagrams or other documents. When the file is named README.md and placed at the repository's top level, GitHub generally displays it beneath the file listing. This makes the README useful as a starting point for someone who has not seen the repository before.
 
-For a documentation-focused repository, it is often better to keep the README readable and accurate than to fill it with decorative elements. Clear topic names and explanations help a reader find the material without opening every file. Changes to the README can also be tracked through Git commits like changes to any other project file.
+For a documentation-focused repository, it is often better to keep the README readable and accurate than to fill it with decorative elements. Clear section names and explanations help a reader find the material without having to open every file. Changes to the README can also be tracked through Git commits, just like changes to any other project file.
