@@ -180,7 +180,7 @@ The command git fetch downloads information about remote updates without automat
 
 A branch is a separate line of development inside a Git repository. It allows work on a feature or correction without immediately changing the main branch. For example, someone can work on improving documentation in a new branch while another person continues working on the main version of the project.
 
-Branches can be created or switched using Git branch and switch commands. After completing work and making commits, changes from one branch can be merged into another. A merge combines their work when Git can do so safely. If both branches modify the same part of a file in incompatible ways, Git may stop and report a merge conflict.
+Branches can be created or switched using git branch and git switch commands. After completing work and making commits, changes from one branch can be merged into another. A merge combines the work when Git can do so safely. If both branches modify the same part of a file in incompatible ways, Git may stop and report a merge conflict.
 
 A merge conflict is not the same as losing the project. It means a decision is needed about which content to keep or how to combine the competing edits. After fixing the conflicting lines, the resolved file can be staged and the merge completed. On GitHub, a pull request is a way to propose changes from one branch, discuss them and review them before merging. This helps keep collaborative changes visible and organised.
 
