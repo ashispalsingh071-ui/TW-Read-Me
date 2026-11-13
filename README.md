@@ -126,7 +126,7 @@ Beamer is a LaTeX document class made for presentations. A Beamer file starts wi
 
 For a simple presentation, \begin{frame}{Introduction} starts a slide titled Introduction, and \end{frame} closes it. An itemize environment inside the frame can display key points. Beamer also supports overlays, which allow information to appear in stages during a presentation. This is useful when an explanation should be revealed gradually rather than showing everything at once.
 
-Because Beamer is part of the LaTeX workflow, mathematical expressions can be written in much the same way as in a report. It suits technical presentations where equations and consistent slide formatting are important. The uploaded LaTeX lecture introduces Beamer through its slide class and frame syntax, so these are the main commands included here.
+Because Beamer is part of the LaTeX workflow, mathematical expressions can be written in much the same way as in a report. It suits technical presentations where equations and consistent slide formatting are important. The LaTeX lecture material introduces Beamer through its slide class and frame syntax, so these are the main commands covered here.
 
 ## Doxygen for Documenting Source Code
 
