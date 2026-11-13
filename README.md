@@ -108,9 +108,9 @@ There are also commands such as \multiput for repeating an object at regular int
 
 ## Using Colours without Changing the Whole Document
 
-The xcolor package provides commands for coloured text and other coloured objects. For example, \textcolor{blue}{Important} displays the word in blue. The package also supports coloured backgrounds and custom colours. Colour can be applied to text or mathematical expressions, depending on what needs emphasis.
+The xcolor package provides commands for coloured text and other coloured objects. For example, \textcolor{blue}{Important} displays the word in blue. The package also supports coloured backgrounds and custom colour definitions. Colour can be applied to text or mathematical expressions, depending on what needs emphasis.
 
-Colour choices should still serve the document. Making every heading and sentence a different colour may draw attention away from the actual explanation. For a report, it is generally easier to read when ordinary text stays consistent and colour is used sparingly in diagrams or selected labels.
+Colour choices should still serve the document. Making every heading and sentence a different colour may draw attention away from the actual explanation. For a report, it is generally easier to read when ordinary text stays consistent and colour is used sparingly — mainly in diagrams or selected labels.
 
 ## References, Citations and Index Entries
 
